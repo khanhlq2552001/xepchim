@@ -1,0 +1,171 @@
+bird11.png
+size:1906,1285
+filter:Linear,Linear
+pma:true
+1/Group 12 copy
+bounds:946,15,168,191
+offsets:2,2,171,194
+rotate:90
+1/Group 12 copy 10
+bounds:1530,300,125,188
+offsets:1,2,127,191
+1/Group 12 copy 5
+bounds:1530,300,125,188
+offsets:1,2,127,191
+1/Group 12 copy 11
+bounds:1443,642,166,221
+offsets:1,1,168,223
+rotate:90
+1/Group 12
+bounds:1443,642,166,221
+offsets:1,1,168,223
+rotate:90
+1/Group 12 copy 12
+bounds:1200,283,159,207
+offsets:1,1,162,209
+1/Group 12 copy 13
+bounds:1082,492,158,248
+offsets:1,2,160,251
+1/Group 12 copy 14
+bounds:712,5,150,232
+offsets:1,1,152,234
+rotate:90
+1/Group 12 copy 15
+bounds:1663,464,152,224
+offsets:1,2,154,227
+rotate:90
+1/Group 12 copy 16
+bounds:1200,132,167,149
+offsets:1,1,169,152
+1/Group 12 copy 2
+bounds:1242,495,199,146
+offsets:1,1,202,148
+1/Group 12 copy 3
+bounds:1047,251,151,225
+offsets:1,1,154,227
+1/Group 12 copy 4
+bounds:476,7,148,234
+offsets:1,1,150,236
+rotate:90
+1/Group 12 copy 6
+bounds:799,478,177,281
+offsets:1,1,179,283
+rotate:90
+1/Group 12 copy 7
+bounds:1361,294,167,194
+offsets:1,1,169,196
+1/Group 12 copy 8
+bounds:1666,618,213,196
+offsets:1,1,216,198
+1/Group 12 copy 9
+bounds:1443,490,218,150
+offsets:1,1,220,152
+1/Group 13
+bounds:816,933,255,350
+offsets:1,2,257,353
+1/Group 13 copy
+bounds:1076,742,192,297
+offsets:2,2,195,300
+1/Group 13 copy 2
+bounds:236,112,238,363
+offsets:1,2,240,366
+1/Group 13 copy 3
+bounds:1647,816,209,248
+offsets:2,2,212,251
+1/Group 13 copy 5
+bounds:480,476,183,317
+offsets:1,2,185,321
+rotate:90
+1/Group 14 copy 2
+bounds:1369,129,125,163
+offsets:2,1,128,166
+1/Group 14
+bounds:1369,129,125,163
+offsets:2,1,128,166
+1/Group 14 copy 3
+bounds:1496,139,97,153
+offsets:1,1,100,155
+1/Group 14 copy 4
+bounds:1595,148,103,146
+offsets:1,1,105,148
+1/Group 14 copy 5
+bounds:1700,70,130,109
+offsets:1,1,132,111
+1/Group 14 copy 6
+bounds:1306,12,149,115
+offsets:1,2,152,118
+1/Group 14 copy 7
+bounds:236,3,107,217
+offsets:1,1,110,219
+rotate:90
+1/Group 14 copy
+bounds:236,3,107,217
+offsets:1,1,110,219
+rotate:90
+1/Layer 1
+bounds:845,185,200,291
+offsets:1,1,202,293
+1/Layer 16 copy
+bounds:845,185,200,291
+offsets:1,1,202,293
+1/Layer 16 copy 2
+bounds:845,185,200,291
+offsets:1,1,202,293
+1/Layer 16 copy 6
+bounds:845,185,200,291
+offsets:1,1,202,293
+1/Layer 10
+bounds:2,2,79,111
+rotate:90
+1/Layer 11
+bounds:1457,4,123,100
+rotate:90
+1/Layer 16 copy 3
+bounds:476,157,183,317
+offsets:1,2,185,320
+1/Layer 16 copy 5
+bounds:476,157,183,317
+offsets:1,2,185,320
+1/Layer 16 copy 4
+bounds:661,157,182,317
+offsets:1,2,184,320
+1/Layer 18 copy
+bounds:1443,810,202,256
+1/Layer 19 copy
+bounds:1412,1068,215,311
+rotate:90
+1/Layer 2
+bounds:2,477,476,806
+1/Layer 3
+bounds:1700,181,134,113
+offsets:1,2,137,118
+1/Layer 4
+bounds:1270,759,280,171
+rotate:90
+1/Layer 5
+bounds:816,657,258,274
+1/Layer 6
+bounds:1073,1041,337,242
+offsets:0,1,337,243
+1/Layer 7
+bounds:1270,643,171,114
+1/Layer 8
+bounds:1139,14,116,165
+rotate:90
+1/Layer 9
+bounds:2,83,232,392
+1/body
+bounds:480,661,334,622
+1/eye
+bounds:1412,1042,24,24
+offsets:1,1,26,26
+1/head
+bounds:1657,296,166,194
+rotate:90
+1/leg
+bounds:1725,1066,217,178
+rotate:90
+1/mouth
+bounds:1858,1026,38,46
+offsets:1,2,40,49
+rotate:90

@@ -1,0 +1,49 @@
+homeTitle.png
+size:1732,281
+filter:Linear,Linear
+pma:true
+Group 4
+bounds:2,87,632,192
+Layer 1
+bounds:1507,22,135,113
+Layer 10
+bounds:898,2,129,65
+rotate:90
+Layer 11
+bounds:435,16,157,69
+Layer 12
+bounds:1444,12,61,123
+Layer 13
+bounds:274,10,75,159
+rotate:90
+Layer 14
+bounds:1159,137,292,142
+offsets:1,1,294,144
+Layer 15
+bounds:768,131,148,102
+rotate:90
+Layer 2
+bounds:1644,31,110,86
+rotate:90
+Layer 3
+bounds:773,3,123,126
+Layer 4
+bounds:1544,143,112,136
+Layer 44 copy
+bounds:1453,137,89,142
+Layer 5
+bounds:636,113,130,166
+Layer 6
+bounds:2,2,147,83
+Layer 7
+bounds:594,17,177,68
+Layer 8
+bounds:151,7,121,78
+Layer 9
+bounds:1344,3,98,132
+pzltag
+bounds:965,3,377,128
+offsets:1,1,379,130
+text_birdsort
+bounds:872,133,285,146
+offsets:1,1,288,148

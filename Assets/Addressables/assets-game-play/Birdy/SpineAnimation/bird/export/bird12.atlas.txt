@@ -1,0 +1,38 @@
+bird12.png
+size:1929,898
+filter:Linear,Linear
+pma:true
+1/Layer 1
+bounds:923,359,537,417
+rotate:90
+1/Layer 2
+bounds:937,54,473,303
+1/Layer 20 copy
+bounds:1412,10,366,515
+rotate:90
+1/Layer 3
+bounds:380,5,244,555
+rotate:90
+1/Vector Smart Object
+bounds:332,251,645,589
+rotate:90
+1/body
+bounds:2,175,328,721
+1/eye
+bounds:332,209,40,42
+offsets:1,1,42,44
+rotate:90
+1/head
+bounds:130,30,143,248
+rotate:90
+1/leg
+bounds:2,2,171,126
+rotate:90
+1/mouth
+bounds:937,3,49,48
+offsets:1,1,51,50
+rotate:90
+1/wing
+bounds:1342,378,265,518
+1/wing copy
+bounds:1609,396,287,500

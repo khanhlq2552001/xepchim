@@ -1,0 +1,119 @@
+bird1.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+skin1/Bbody copy
+bounds:2,1411,472,633
+skin1/Bleg1 copy
+bounds:547,21,180,258
+rotate:90
+skin1/Bleg2 copy
+bounds:2,26,175,271
+rotate:90
+skin1/Bmouth copy
+bounds:1189,65,150,153
+offsets:1,1,152,155
+skin1/Btail copy
+bounds:1550,492,284,467
+rotate:90
+skin1/Bwing1
+bounds:896,1138,358,422
+skin1/Bwing1 copy
+bounds:476,987,418,483
+skin1/body
+bounds:2,203,412,572
+skin1/eye
+bounds:2,2,22,34
+offsets:1,2,25,37
+rotate:90
+skin3/eye
+bounds:2,2,22,34
+offsets:1,2,25,37
+rotate:90
+skin1/leg1
+bounds:900,899,120,198
+rotate:90
+skin1/leg2
+bounds:476,870,115,210
+rotate:90
+skin1/mouth
+bounds:476,778,90,93
+offsets:1,1,92,95
+rotate:90
+skin1/tail
+bounds:830,220,224,406
+rotate:90
+skin1/wing1
+bounds:830,446,358,422
+skin2/Bbody copy
+bounds:2,777,472,632
+skin3/Bbody copy
+bounds:2,777,472,632
+skin2/Bleg1 copy
+bounds:807,21,180,258
+rotate:90
+skin3/Bleg1 copy
+bounds:807,21,180,258
+rotate:90
+skin2/Bleg2 copy
+bounds:275,26,175,270
+rotate:90
+skin3/Bleg2 copy
+bounds:275,26,175,270
+rotate:90
+skin2/Bmouth copy
+bounds:1300,983,150,153
+offsets:1,1,152,155
+skin3/Bmouth copy
+bounds:1300,983,150,153
+offsets:1,1,152,155
+skin2/Btail copy
+bounds:1749,24,284,466
+skin3/Btail copy
+bounds:1749,24,284,466
+skin2/Bwing1
+bounds:1190,475,358,422
+skin2/Bwing1 copy
+bounds:890,1562,418,482
+skin3/Bwing1 copy
+bounds:890,1562,418,482
+skin2/body
+bounds:416,203,412,572
+skin2/eye
+bounds:38,3,21,34
+offsets:1,2,25,37
+rotate:90
+skin2/leg1
+bounds:1100,899,120,198
+rotate:90
+skin2/leg2
+bounds:688,870,115,210
+rotate:90
+skin2/mouth
+bounds:571,778,90,93
+offsets:1,1,92,95
+rotate:90
+skin2/tail
+bounds:1238,249,224,406
+rotate:90
+skin2/wing1
+bounds:1256,1138,358,422
+skin3/Bwing1
+bounds:1550,778,358,422
+rotate:90
+skin3/body
+bounds:476,1472,412,572
+skin3/leg1
+bounds:1067,20,120,198
+skin3/leg2
+bounds:896,1021,115,210
+rotate:90
+skin3/mouth
+bounds:666,778,90,93
+offsets:1,1,92,95
+rotate:90
+skin3/tail
+bounds:1341,23,224,406
+rotate:90
+skin3/wing1
+bounds:1310,1622,358,422

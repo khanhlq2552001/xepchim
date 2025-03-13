@@ -1,0 +1,29 @@
+bird13.png
+size:1031,669
+filter:Linear,Linear
+pma:true
+1/Layer 4
+bounds:924,362,103,305
+1/Layer 5
+bounds:691,27,45,332
+rotate:90
+1/Layer 6
+bounds:859,75,135,47
+offsets:2,1,139,49
+rotate:90
+1/body
+bounds:2,2,665,687
+rotate:90
+1/eye
+bounds:691,2,18,23
+offsets:1,1,20,25
+1/head
+bounds:691,74,166,136
+offsets:2,1,170,138
+1/mouth
+bounds:924,189,171,105
+offsets:1,1,173,107
+rotate:90
+1/wing
+bounds:691,212,455,231
+rotate:90

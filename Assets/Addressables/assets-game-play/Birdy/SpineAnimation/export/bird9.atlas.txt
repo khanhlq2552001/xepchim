@@ -1,0 +1,125 @@
+bird9.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+BLayer 1 copy
+bounds:282,688,181,173
+BLayer 14 copy
+bounds:1490,707,329,465
+BLayer 15 copy
+bounds:2,1597,518,446
+BLayer 2 copy
+bounds:1894,1380,167,140
+offsets:1,1,169,142
+rotate:90
+BLayer 21 copy
+bounds:1894,1046,164,111
+offsets:1,1,166,113
+rotate:90
+BLayer 26 copy
+bounds:502,795,191,183
+BLayer 27 copy
+bounds:1894,1212,166,139
+offsets:1,1,168,141
+rotate:90
+BLayer 5 copy
+bounds:522,1618,425,543
+rotate:90
+BLayer 9 copy
+bounds:2,802,278,251
+skin1/Layer 1
+bounds:828,865,121,113
+skin1/Layer 14
+bounds:2,1326,269,404
+rotate:90
+skin1/Layer 15
+bounds:1067,1658,458,385
+skin1/Layer 2
+bounds:1894,1549,107,80
+offsets:1,1,109,82
+rotate:90
+skin1/Layer 21
+bounds:1987,1939,104,51
+offsets:1,1,106,53
+rotate:90
+skin1/Layer 24
+bounds:2013,1602,28,29
+offsets:1,3,30,33
+rotate:90
+skin1/Layer 25
+bounds:1987,1662,63,24
+offsets:1,1,65,26
+rotate:90
+skin1/Layer 26
+bounds:2,677,131,123
+skin1/Layer 27
+bounds:408,1355,106,78
+offsets:1,1,108,80
+skin1/Layer 5
+bounds:1527,1174,365,482
+skin1/Layer 9
+bounds:1821,854,218,190
+skin2/Layer 1
+bounds:951,789,121,113
+skin2/Layer 14
+bounds:2,1055,269,404
+rotate:90
+skin2/Layer 15
+bounds:1527,1658,458,385
+skin2/Layer 2
+bounds:408,1516,107,79
+offsets:1,1,109,82
+skin2/Layer 21
+bounds:1987,1833,104,51
+offsets:1,1,106,53
+rotate:90
+skin2/Layer 24
+bounds:2013,1632,28,30
+offsets:1,2,30,33
+rotate:90
+skin3/Layer 24
+bounds:2013,1632,28,30
+offsets:1,2,30,33
+rotate:90
+skin2/Layer 25
+bounds:2013,1662,63,24
+offsets:1,1,65,26
+rotate:90
+skin2/Layer 26
+bounds:135,677,131,123
+skin2/Layer 27
+bounds:408,1275,106,78
+offsets:1,1,108,80
+skin2/Layer 5
+bounds:522,1251,365,482
+rotate:90
+skin2/Layer 9
+bounds:1821,662,218,190
+skin3/Layer 1
+bounds:828,750,121,113
+skin3/Layer 14
+bounds:516,980,269,404
+rotate:90
+skin3/Layer 15
+bounds:1067,1271,458,385
+skin3/Layer 2
+bounds:408,1435,107,79
+offsets:1,1,109,82
+skin3/Layer 21
+bounds:1987,1727,104,51
+offsets:1,1,106,53
+rotate:90
+skin3/Layer 25
+bounds:1987,1597,63,24
+offsets:1,1,65,26
+rotate:90
+skin3/Layer 26
+bounds:695,855,131,123
+skin3/Layer 27
+bounds:408,1195,106,78
+offsets:1,1,108,80
+skin3/Layer 5
+bounds:1006,904,365,482
+rotate:90
+skin3/Layer 9
+bounds:282,863,218,190

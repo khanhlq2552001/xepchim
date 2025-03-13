@@ -1,0 +1,23 @@
+{
+    "name": "Game.MainGame",
+    "rootNamespace": "Game.MainGame",
+    "references": [
+        "LeanPool",
+        "DOTween.Modules",
+        "DOTweenPro.Scripts",
+        "Unity.TextMeshPro.Editor",
+        "Unity.TextMeshPro",
+        "spine-unity-editor",
+        "spine-unity",
+        "spine-csharp"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,3370 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: assets-game-play
+  m_EditorClassIdentifier: 
+  m_GroupName: assets-game-play
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3466be88f7fa25d40a81e15a6a551269
+  m_SerializeEntries:
+  - m_GUID: c314e2b7b08227f4e93a7753c33d8eda
+    m_Address: SmokeExplosionWhite
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ddfc2800e6bbd664990aec6731aa1095
+    m_Address: Collection_btn_buy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eacb22109b159274095c30bb0fc99069
+    m_Address: win_top
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d8e27105dde7374c963b3d5a120318b
+    m_Address: branch3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1d748104bf42864c8ef3bd2f42c7c85
+    m_Address: Settings_btn_exit
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92b73b1022966e74d8ff778f092b3a14
+    m_Address: bird12_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d68a220e2eb2e0488ce95ed9edbbf98
+    m_Address: V
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f661472055f4b104b8f34c3c076cdce9
+    m_Address: Home_PlayBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc197b2082b197340b7c99a89e022fac
+    m_Address: Pause_btn_shop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 306ab4307d5021b448e57420fcf0b829
+    m_Address: win_top
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac5d104005a87c24bbb170f358610043
+    m_Address: 245127639
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 252b26404a2e5234394f37690d16fa02
+    m_Address: doflamingo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10313940190830c47b928de09b1070a7
+    m_Address: Home_btn_setting
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f22141505d141d849ad6aca9a698b7e7
+    m_Address: Home_btn_shop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86ecee50351ec9e4ab4daa48bc0bf901
+    m_Address: Win_icon_ad
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74fa0960c07161247adbc167d6174009
+    m_Address: bird11_Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ade7b70f2af67b469b3506c4af698a8
+    m_Address: bird9_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e77ff480dcf037145b5950eda780ca85
+    m_Address: Win_Icon6 copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99005780b8fd0e545b9eaa53e09d261f
+    m_Address: correct-02-sound-effect-40612793
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebe7e8803a485d940be10da0f3c1c015
+    m_Address: branch2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fb0619084e1e7e47b9d8f5a65184533
+    m_Address: BirdYard_SelectBird
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99f7f3902d8ac7a419f2baf74cac772b
+    m_Address: bird4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 062751a05b5e5f84eb98bdfc58d5820b
+    m_Address: Play2_btn4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4af0b2a019d303f419fc63a5a847823a
+    m_Address: dailyreward_frame_next
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d4217a0a96d32e4b8815536891c2396
+    m_Address: bird11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d1379a079c47924a943f422030840d7
+    m_Address: Endgame_Win
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8aa583b0b4a946b45a016f036d5a8fcd
+    m_Address: BirdYard_SelectBird_panel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 382f15b05607ac94c8bf32349422b9d5
+    m_Address: Spin_item_booster_undo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d99367b09ef3c624b97ce0c30fbfc56e
+    m_Address: BG9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c7e9ab0361e35246bd8c6d46c0e805b
+    m_Address: parrot4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9e2e5c0f3cfe2544934a8dab5a86a5c
+    m_Address: bird1_Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21dcbcc0590a2c64780302c08f2f0a39
+    m_Address: SPin_panel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f9ad8d07bcbb474fbd59f70e55923b2
+    m_Address: Settings_btn_X
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5228fd0b9a3eac498fbd9925b65bd1e
+    m_Address: bird11_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6da866e0808043c4d93ff57afeceb61a
+    m_Address: dailyreward_ico_spin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 901c11f0aad21d0408150fc274a8e311
+    m_Address: giftbox.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd6022f07240dd64b839062c901bb76c
+    m_Address: Win_Icon4 copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c51fa3f008bdb174f8ba8eb05425b2d0
+    m_Address: bird12.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fc6dff0a56e8a74fa64b0d6b0181667
+    m_Address: Playswap
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 584d9101cff63bf4b8ba49ec8bfde39b
+    m_Address: Home_btn_Spin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b6697016c3c1c540bf03f161b076ced
+    m_Address: egg_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: baef78012aae2e24988b583e08fc2c38
+    m_Address: Simple Coin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 975beb0140e480944ab30221344986f5
+    m_Address: win game level 98
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 576b1311bd045cb4e8d99240434aade4
+    m_Address: bird13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c52b7b11595fd9c4798015c7d1b92f86
+    m_Address: dailyreward_frame_done
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e594d11dedca0347817dfff539f42b8
+    m_Address: branch_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e020e11c6679014fa98d3b5919a4985
+    m_Address: wood4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e51be113c349a841bd6c29f94bba370
+    m_Address: bird11.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5dfa2821a9472d24ab72ad0f82969638
+    m_Address: Loading_bar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 666f753196086d940ac40cdf3079cb46
+    m_Address: Lose_Icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5bafd311a7e3a541bcafc845a6391db
+    m_Address: Branch3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8a75241c44ba7c4b9b9d803f6629b2d
+    m_Address: 144509377
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2708825145e70b5428a549633cf4c179
+    m_Address: bird1_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 699505513fb057747ba4e34967f75507
+    m_Address: bird8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45fff75199ea9db4f838f38db97811ad
+    m_Address: branch
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e928aa519dc844741bb0ff96320bdd5a
+    m_Address: branch2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dcaeea51d9daf5844841e48a13333809
+    m_Address: bird9_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f784d51057a3a84c8b9bf0038e1af08
+    m_Address: Holder (1)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3bc61615050c3c41ba8676dbd76d791
+    m_Address: Play_btn_sound_off
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1004336147ce28c4d8dbae45dc57cffa
+    m_Address: 245127797
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 389a336123bc73a4291ffa33cc98e56a
+    m_Address: PopUp_Save
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da08b371035f4914b927930ee6f5f79a
+    m_Address: Spin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aecac971c55d2d14698bb6532b910d5b
+    m_Address: bird
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a670f71889b8ec40a30e26c910caae6
+    m_Address: SHop_ico_Branch8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16e03481972752249929080a7ab248c0
+    m_Address: 2TocoToucan copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96a1578120f7c4445b10931c78ca2aaa
+    m_Address: result_panel_ani
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3ba94914f704684984bc1f1b162d3f4
+    m_Address: bird6.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4a7f891073167d479c3ab66d4004d06
+    m_Address: Boogaloo-Regular SDF 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c84420a1338454248bd909422514c2b3
+    m_Address: 6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 292541a1d74718542b2282e086cb3ffa
+    m_Address: branch2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3da817c19d644e747a9ed77779d6c5dc
+    m_Address: Spin_icon_ad
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d4021d1508654f428f87c8d368e1053
+    m_Address: branch3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d2e62d1d03918f4a92ad38ad72ec8d3
+    m_Address: Rateus_star_1 copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba0782d1e5cf75a498e0784a0608cc90
+    m_Address: 200278196
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a9dd2d176d3f024e833e523a1bfa637
+    m_Address: birdyard_1_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aee413d17576d424880acce9f6a748ca
+    m_Address: BG6 (1)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 008976d1fb971b74aacc8dacf5b3a5d7
+    m_Address: branch2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25f6b9d1ab22c28418823af9418552ad
+    m_Address: Shop_btn_buyad
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5737ced1c523459488ae3fb8c6cd7bf2
+    m_Address: BG11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a58092e1380a59f459e0467679568c12
+    m_Address: BirdYard_frame_common
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ffc43e1d96104040bb849778f16999a
+    m_Address: 3GreenTuraco
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c469ae141294d4448a25b25b866f5af
+    m_Address: 10MajorMitchell copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c68b69f1ca97c9549b1a8eb076b475d3
+    m_Address: Bird3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eef7d1029879a3847a8cc4a7580cbf58
+    m_Address: bird11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a05a720291c91da40b068fedc59d507c
+    m_Address: Play_ReplayBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71d69d0262a11a54f86acc2c4f557358
+    m_Address: Win_Icon2 copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c306e02698dc364ca6c7dde3b660eaf
+    m_Address: Spin_item_bird
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81b2b012f28240941bf3a4c9e82028f9
+    m_Address: giftbox_Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca850d12f349167408adbd38495f326b
+    m_Address: X
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24372a22b9a67bf4eb9cc447287a51e5
+    m_Address: win_barcoin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74f79a22f6510ae479916ddf60b97725
+    m_Address: 9StellesJay copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff94d332e1e8f064197589b3a034d061
+    m_Address: dailyreward_ico_egg0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: decf7042bfdf18243aacbde83043cc7d
+    m_Address: Shop_background2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1160c1429e67aad4f94fcaef0756dcc1
+    m_Address: SpecialGift_panel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0fccf142dca960d4693e5e3405b32bc1
+    m_Address: 12GoldenPheasant copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a064934239b2c034698a9ca6e312af0e
+    m_Address: Home_PlayBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6e4fe4218f123a4c94ca3b47d5ad5c7
+    m_Address: Popup_egg_common
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b767552daf65684cb2928ca91f3ba4b
+    m_Address: Popup_egg_rare
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c16fd75296858664e8293167ddba076b
+    m_Address: United Kingdom
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77ba0952703b6d34293e64b04f24e805
+    m_Address: bird7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1575946296323db4daf277253d2d42ee
+    m_Address: BG6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39fc7862fb36f604d87423b2a03c4587
+    m_Address: bird1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ef6237272a56664185ef32e4dd37be4
+    m_Address: India
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a7d4472b972bbc4abd60b6eb025060f
+    m_Address: coin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a46d672a7668714583d7fad7f9e5997
+    m_Address: BG5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e51251823da77444b991303154099e70
+    m_Address: bird6_Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0121d782c1a7f25488a30d1eddae1c1e
+    m_Address: bird8_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a340ef82a676fcd4ea731b8eac622dfa
+    m_Address: Bird1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e2b9192dd8092743b13cd6d788b7cbb
+    m_Address: BirdYard_SelectBird_title
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 050c329295e82874096f7a399e8aedfd
+    m_Address: dailyreward_ico_Vcheck
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e0e8392f9559d54689b9cf94d4200f0
+    m_Address: Shop_btn_buy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72bd1aa232008d041b42afc52a7cef3a
+    m_Address: egg_egg_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8ee4ca27eccca6429abe6f85af29299
+    m_Address: Collection_scroll
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8dedfb26fbfff44ba6e202d67541973
+    m_Address: Play_icon_ad
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd08d5c2ca3caaa44b37c1e9fb46859b
+    m_Address: NewBird
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 518186c262d71f84aaf06582bdf981f8
+    m_Address: dailyreward_btn_X2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcdacdc2b0e01b446989d266b989d6a9
+    m_Address: Settings_Popup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 649d69d24622ebe4b8106bd5ff2a326b
+    m_Address: Popup_newbirdtag_common
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6300c9d239d57a947a7c76a6697fd62f
+    m_Address: Play_BranchBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab2801e298b649c40bf5e9197fe46dc1
+    m_Address: parrot5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1ab31e289d33a34a831b52968dfa5c7
+    m_Address: Win_ExitBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86eb5be266ea787468a15a159af81926
+    m_Address: bird7_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 721bede273e5b874b90f3101b276b6ae
+    m_Address: Shop_background
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7bf1e2f2d40b9844f9c78d2b6f73aa03
+    m_Address: Spin_item_booster_swap
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02db3003be9db554ab027ad8afe65534
+    m_Address: branch1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e27d6203afd8a30429ce101b9ed21dc1
+    m_Address: bird8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5db0340309158c6418afd77960a23a90
+    m_Address: 177435627
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00f99803c8ca14942af049e2c5063eea
+    m_Address: bird12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe807b032542e114b925207e62f3064e
+    m_Address: Play_UndoBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c440f0347a99d044806c6563601cf89
+    m_Address: Icontab_Home_selected
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4cd3ef03966be3848b7ec8df98eb0783
+    m_Address: Icontab_shop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb7f69135555323419c37f0a19daa3f3
+    m_Address: Win_Icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6a6082397faad840bc01d9e25e2ac4b
+    m_Address: shop_scroll
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd3da923e35ebbe4599d1050f047aa3e
+    m_Address: shop_tag_bird_on
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf275f23e3cbd6f4cb68c709f3252fed
+    m_Address: bird10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07444033e5674d54582fd9f409f89a80
+    m_Address: bird4_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 06f0524383275a843b72a95415fc516c
+    m_Address: homeTitle_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22877743fcc18d3499487e0b82e1dbca
+    m_Address: Win_Icon2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7139ca43a55d22548a5f1c077faf0c5d
+    m_Address: wood2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0122fe43af6b7bf45a1c34f98dd2ea9c
+    m_Address: Play_SettingsBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b326e2531b3712741bd3b6f537cba332
+    m_Address: 5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8759c95311c22414cb041db18b4175a9
+    m_Address: Endgame_eggprogress
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5faf563f915c644e817504a29597ca4
+    m_Address: ANIMAL_BIRD_OF_PREY_Eagle_Call_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bd85763177a7b04c99c09a5c1e5de01
+    m_Address: Dailyreward_SpecialGift2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d17e7635a7fa08449f233d46e942f16
+    m_Address: Branch3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adc56c63dd6535f43a69036f8f65305d
+    m_Address: Lose_ReplayBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1efa1373f28087a4c87791034c5505de
+    m_Address: dailyreward_frame7_next 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07a3b47396c11e3449b1c02b33391d96
+    m_Address: Collection_title_common
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ab37573204bb864ea7c883a6d689b7d
+    m_Address: SHop_ico_Branch9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 664650834a3329c46a08a822d8dbb286
+    m_Address: Win_Icon1 copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21796b93fa0436e4883c9b5e2c8cc5f8
+    m_Address: Popup_neweggtag_special
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a66ac93077f66c48bc17b3b4ea8384e
+    m_Address: Shop_title
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2114f93d965ac64a9c136bbba8ddad4
+    m_Address: bird11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcb010a3b5917524c92510b196321b2b
+    m_Address: dailyreward_btn_claim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 628f84a3b68102643a969431d68e32ce
+    m_Address: Win_Icon3 copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d5007a34b5e74f47ba144c2ac2c19d4
+    m_Address: bird10_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40207ea3d3b672445873356ace86deb5
+    m_Address: BeepsBonksBoinks EC07_38_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c26ac8b3e25ad3742b6bfb5a5e3d7138
+    m_Address: Play_icon_ad
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 273919b37f77fb5449db45386af54e79
+    m_Address: Play_btn_removeads
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e86c8ab3e5c836745ad2e0d3912cb557
+    m_Address: Home_tag_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1c471c3dad9ba242a8690a19d8d50d4
+    m_Address: bird_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2cc24ac35545ccc4cbc47e5619b66268
+    m_Address: egg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 968b70d3957abca488e975cc6ccaed57
+    m_Address: Shop_btn_use
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e1834d3d69de6945980831a5548da05
+    m_Address: bird12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 818ce5d351659de44b7ae47cf57c8e75
+    m_Address: Collection_btn_locked
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76b708d36a480034cae31c460092ff49
+    m_Address: Icontab_Shop_selected
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf457bd30e46977469505817d349cbb0
+    m_Address: 18953 cartoon bird chirp-full
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3e0afd30664e174093f1f2bb93a4a78
+    m_Address: bird6_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 976fbfd3bf10b9d4990ddcb4e3afcf60
+    m_Address: bird11_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 052f81e36a26ea4448c1defbd743cbbd
+    m_Address: shop_tag_branch_off
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c7f75e3b19bd7541a47a7155b90c33c
+    m_Address: BG1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b5466e31d0fb1d45b215869647f134d
+    m_Address: Play_btn_vibration_on
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7e837f3a1e54ad4aae50544cd8a88a1
+    m_Address: ReceiveEgg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69e2e9f39330f3841809d623ecbb8bbb
+    m_Address: bird11_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f00a91046fd981040ba807a0680fd3d4
+    m_Address: dailyreward_ico_back0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de96ec04bb6d1494f80fe3a155c2dc52
+    m_Address: Win_Popup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14bdff046fb06774b9748e911636bd72
+    m_Address: Branch4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c2693144c7d2104f9c99f56c3d329fb
+    m_Address: Hard_BG1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aefe9d140bb34404a91ab0075c254309
+    m_Address: bird9_Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a52ed1478721db4a996ad09a99931bb
+    m_Address: Cartoon Big Win
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7094f224a591a4448a64b3ff7ca7b31d
+    m_Address: Home_PlayBtn_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5750c82497dea5a4cbf28cd4ddd83b23
+    m_Address: Home_noti
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bba2d234502e1094580a3fc0936fdfdf
+    m_Address: BirdYard_frame_special
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 599f1934c93c0f94b8003141a84646d3
+    m_Address: Win_Icon3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e6e3934be8a27549a175f4a3c893dfc
+    m_Address: bird12_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6063d34cfed68a42aa66d574126b569
+    m_Address: giftbox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8b8954440fea1240a51aeff35b2525d
+    m_Address: egg_egg_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ead58448daed1c4db3e028cf6d0182d
+    m_Address: bird3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 022b81549c86aaf41b389862bc556875
+    m_Address: bird6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46e533646d3739145ae2fa813a2d9a39
+    m_Address: dailyreward_ico_coin0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23a2046445dac454fbb96bfb41c28bb6
+    m_Address: Popup_btn_redsmall
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b04966422bdcf642ac24345aab9ae88
+    m_Address: egg_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 770dad64c8256b340bbf882b86ed128c
+    m_Address: bird13_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 857fad64eff8fe845a27a5772414b5cb
+    m_Address: specialgift_branch_ico
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c79b6f64c6a287d4a9de2bd388770dd9
+    m_Address: bird13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7101b084c5a7c4546bf13affafb8295b
+    m_Address: 146582156
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15b2cc84cf3294905a9ad942a6288c41
+    m_Address: France
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 972eb294652d1564cb272fff000bcdf4
+    m_Address: 4NorthernCardinal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f7eb59447ed4014598e055ac9ae71e5
+    m_Address: BirdYard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2641ba4757fdc14fa29269b70312958
+    m_Address: Popup_newbirdtag_special
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b9883b454c9a5045a7e23eb5f3ba83c
+    m_Address: Win_Icon4 copy 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 06f53fb4f4b5abc409e5cceeac59d2a6
+    m_Address: Collection_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e928c7c493f9a494f8ce299334bae7d5
+    m_Address: bird8_Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1730f6d450184054383342dcdc5d9631
+    m_Address: egg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31c3dcd4d2a3f9c46a7318eeeb6da90b
+    m_Address: BirdYard_collectionframe_special
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16a545e445fc8d343949522087085e6e
+    m_Address: 1.Motivational Promo Intro
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 952a86e439ca9d94bb4be35ec55df436
+    m_Address: Netherlands
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da9a5de40a0b7b54eb02c09bb9cdea02
+    m_Address: Play_title
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a948f7f420d502d4bb4bff3b9e49bcf7
+    m_Address: 11PalmCockatoo copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56a81af488f71484589f092429cd196d
+    m_Address: Icontab_BirdYard_selected
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a06cbbf467d99b541acaf9a9f6fd3a85
+    m_Address: BG3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9bfe1ef4a34589e47abfa45e388e6d7f
+    m_Address: 6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe16fef43911f1447b9f31f0fefbd079
+    m_Address: Popup_panel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ef2cff47af03c64cafa5ea5d09fd753
+    m_Address: Firework Magic Hit
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7fe52053adedfb45b4c7c7e5cdf72f6
+    m_Address: bird13_Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a7ff805317df854297bd4a78987012c
+    m_Address: Play_btn_vibration_off
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4bdf6315a3319b64cb0de418ec913a8b
+    m_Address: BirdYard_btn_editposition
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9cbe415a1dead543befa478f5e4ea34
+    m_Address: branch6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 199596159814c4149a0ab95240e062d5
+    m_Address: BG4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7cb16715619746347891041accb23375
+    m_Address: Happy Win Game
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67ff7f150209aad40bf63ea52efe0830
+    m_Address: BG8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1373e325b4fda234fa395f8f4ce0b2b7
+    m_Address: BG5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9561252507be23c4e8f757ded9f0f7fd
+    m_Address: 174441867
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82726035b88ac7f4e941b91fbb254a29
+    m_Address: Shop_bird1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0a47f3520e035840ac0571edb82af2f
+    m_Address: Boogaloo-Regular
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e184ea45728720146be81441288f2f89
+    m_Address: Home_Logo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e96e655597eb3414bac39692ea2d550f
+    m_Address: South Korea
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b00c2655ab7ec3e4abe3dae388ae46e1
+    m_Address: Win
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66bf36552a8e499468dfe56e3050694c
+    m_Address: animator
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62088e55e90175c439c89c0607248c72
+    m_Address: BG4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3fae16659dd3b294aa3df747c36695a2
+    m_Address: Home_egg_rare
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 427f8765557bcf44d9649a1ad8195c49
+    m_Address: 2TocoToucan
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1addfa6567ac5ed47bf284f1879df69a
+    m_Address: BG3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95822e754e6717649ab8c57840cb7c3f
+    m_Address: bird12_Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38419295737f7334d8d03b0857303d59
+    m_Address: bird11_Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b55bb795810144c4c9db4ae4a6e47b6a
+    m_Address: dailyreward_ico_branch0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4189ea95c10a522428d45afb7cb18d46
+    m_Address: bird.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: becac8a5bc56ba441be2e389f6199902
+    m_Address: 3GreenTuraco copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce745da500788904788ba1fc30bfc081
+    m_Address: Endgame_eggprogress_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b02e5b52b9fcdb48a93f365e2c793d3
+    m_Address: bird0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d05afbc5e0e8da842bf72e0fef613997
+    m_Address: 10StellesJay
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b48aaec5c11f1134f98e9f4d4144509d
+    m_Address: 2TocoToucan
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 403890d583fabe040b614d1ae176d2d8
+    m_Address: bird11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 428f56d5eaa7e7f4482b4180d91cb8ed
+    m_Address: Collection_btn_back
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34e58ad5a13d72942972ae3a88740b2e
+    m_Address: Mountain Audio - Cartoon Bird 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95dfddd5b5f7af14b8a69aad0058553d
+    m_Address: Peacock
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ade707e58f485dd4d95d16e69b4c727b
+    m_Address: 6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09f227e563325284f8b3e245e1f6ba6c
+    m_Address: specialgift_spin_ico
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c06aa7e5da24dce419c891bb0b0c8a61
+    m_Address: BirdYard_Collection
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67293cf52b43517449d799129a823e6c
+    m_Address: bird3_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39f08ef53aff4e34583d02c3d96f5892
+    m_Address: bird_Material 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ba0630622c5a3747aaa9756ffe09e7d
+    m_Address: HomeDailyReward
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 380cc60619fbc354389bfed2179f6977
+    m_Address: 10MajorMitchell
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bff7790626859154289909e09cf63d9a
+    m_Address: 6 copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba259516eefdc6341a0609a1e4cead28
+    m_Address: Vietnam
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c947f16093e0514ab60f7b0d7aa850c
+    m_Address: BG7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c33bd4262d9607c4d82931a877d9baf1
+    m_Address: Win_Popup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 626df926dbde3ad4b8375b782d2ec0d1
+    m_Address: 8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2271136c0e474541b16df8a080ec574
+    m_Address: Popup_X
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28234336ba3542741a076d02f71ddb05
+    m_Address: Happy Win Game
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 479877365fcce0242a064efb098de875
+    m_Address: Home_numbertag
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95b3393646d97b44c9990cdd6b455a9c
+    m_Address: BG10 (2)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22bbda36dfb39464b86fe3b71b27e2b8
+    m_Address: Play_title
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: facde046b65b38c4487899a3d1f25e6a
+    m_Address: bird12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2ce8846fcd405540809a4c38e5cd19b
+    m_Address: BG1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b166c4636c51f743842cb836333c85c
+    m_Address: branch3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86c7f15627e438b45afc139a8fcd263b
+    m_Address: Endgame_egg_mys
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dda498562b851b04fa7d087e78686539
+    m_Address: Shop_bird1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 368d0a5613851da47b803ff33c061930
+    m_Address: Correct Answer 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea1b6a56f679e0a4c8bef0365d0082b2
+    m_Address: Game Reward
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a307e56bd11a104c92188601e8cecea
+    m_Address: Home_tag_stand
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac730166603572743ba14b4a47ebcd82
+    m_Address: Shop_btn_selected
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe7ec16696f065a45b269741385abed8
+    m_Address: branch_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1576666424394446910be1596de9373
+    m_Address: 10MajorMitchell
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70f7d27619b0a12498dd5e31621fc4bf
+    m_Address: dailyreward_frame7_claim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7ac1776d4f5e8b4b9f5c52b829bb0df
+    m_Address: Home
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 562c5386801c8d240906791d93bbe82e
+    m_Address: Settings_btn_X
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef8e3a862a07eeb428bbd312ab1972e5
+    m_Address: Spin_roulette1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13d21b8625ed46843a28233768940f38
+    m_Address: bird12_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ab1bb86b06308c42b47f81d86850bf4
+    m_Address: bird3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3e8bd8629cb4324cbfb43d2c39469fa
+    m_Address: 4NorthernCardinal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66206696497141d45b078794de0b02e7
+    m_Address: bird7.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 049211a69da3fc246b9b9ca6ca5c62bc
+    m_Address: Win_Icon5 copy 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a145e3a61efad5147b39f2e6feac25aa
+    m_Address: bird2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56c858a648498d64d937cc1e1107e171
+    m_Address: branch2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3520e9a629462a2449e0d51f00704795
+    m_Address: dailyreward_ribbon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f11e0b6bcd74f94595682f731042c81
+    m_Address: Home_btn_removeads
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 459682b660778c346909e84d4a5f35fe
+    m_Address: BG2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41b8d5b6d0b0edf4ab5d06c430b0bf34
+    m_Address: egg_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2fecab6464835a45bcdc69e7e314b3f
+    m_Address: Settings_btn_sound_on
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f71413e662e8f394a9fd1b5aabebe1c0
+    m_Address: bird4.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37d1a6e6b7a61634f8e98a3b5448ea07
+    m_Address: Play_SwapBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5659e6e68af3a7d40975c29e9e764b51
+    m_Address: dailyreward_btn_wait
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bc835f6151f04b48b1c122d677c368b
+    m_Address: Play_ReplayBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d02fc507a07b6cb4a9fe8fd7240240a6
+    m_Address: BG1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cbe1607760e6934cb36fe08d8f91940
+    m_Address: homeTitle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2106b60700487df4a9e153b22c64bd3c
+    m_Address: homeTitle_Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b80b017c63626146b736a0e13ca3db6
+    m_Address: Home
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e4fb217c698921489bc5391255160cb
+    m_Address: Home_progress_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80af1517e6a68fd4c8f0bfaa6b4859e4
+    m_Address: doflamingo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74c34717a4c473249998a7ab4b70ceac
+    m_Address: Home_progress_color
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ebefb172e5999045a7145b267d0ee97
+    m_Address: 5 copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd48ac177f6b64345aaf24085283f492
+    m_Address: bird3_Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 993a06275be43e74c86afda030657c2f
+    m_Address: bird3_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5a50a27467c28e49b58730fcccebb2b
+    m_Address: branch3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65fe9f37e21b155439e5798905dad6df
+    m_Address: 245127638
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 323b5a5767f87444cb7610151d7ad61f
+    m_Address: result_panel_close_ani
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2332b57934fd8e429edd72950d4d741
+    m_Address: birdyard_1_Material-Multiply
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6309867d9b97a745ac565200dca8421
+    m_Address: Win_Icon6 copy 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b628d67e1f8d694bbd1cdcf25285651
+    m_Address: Boogaloo-Regular SDF 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cd85077c28340846b10d9d82d932812
+    m_Address: 3GreenTuraco
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81a29277a3527aa48b6a246e6e0c93b1
+    m_Address: bird12_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00acd277aefb9b6449d3a1d8afa33b22
+    m_Address: branch
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 873d157753033dd488a8959502b21425
+    m_Address: bird7_Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a890a775bf1b0d4bbdf49f34e8817db
+    m_Address: Win_Icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61680f77be2cca348b63ab3fc8abdb89
+    m_Address: Shop_coin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7745268771be4434cab2a6f83fbc5cfa
+    m_Address: parrot7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d8bc787adcd05c43bb979fa08a0bf1f
+    m_Address: Collection_title_rare
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1fde8875cf6c074088057d11f068521
+    m_Address: game-award-logo-01-sound-effect-19256592
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 545d9a877cdb3634eb041da7aaa43cf8
+    m_Address: bird6_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e226ec87568e7794aa858029c96c7c25
+    m_Address: 5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d61f6d873d094974a948159048145d6e
+    m_Address: Home_btn_removeads
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac7e06974b3338844b1b3b68d348136e
+    m_Address: Win_NextBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7734aba79ac6bd749a4ff8e2590a4e2d
+    m_Address: Win_Icon1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9e214b7dbc79d5489bfd1d8af04d105
+    m_Address: PopUp_lockedbird
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 925ea9b75aabe9045a7bc78f1798fdd4
+    m_Address: Home_egg_special
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 469f51c7a8a66d04885a5752938c4007
+    m_Address: Play_SkipBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0c954c77f10c464f97e1d59407c81e8
+    m_Address: Bird2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe8628c704b186b4cb901bf85b9cd97d
+    m_Address: Peacock
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52df4dc7790f18643afbdabfb2a6defd
+    m_Address: bird
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8db46d7e71678f4496f187370064ba8
+    m_Address: specialgift_back_ico
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00c5c9d7006510844b42e6e61e78f407
+    m_Address: 245127790
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81860ad79d3fee446935b345362e8e41
+    m_Address: bird4_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a075afd79dcbdc84eb8cf649ce49b408
+    m_Address: BirdScreech_BW.1901
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fc75ee7fcded6348acc7214897dbf6a
+    m_Address: Win_Icon3 copy 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55e684f7ac6028041a30e0585e42e2fd
+    m_Address: branch_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e936708623af59458b8a6a1e8b8bf88
+    m_Address: BG2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73cbf618be577f84eb4f6586d23934b1
+    m_Address: bird10_Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd4b36281be71fb46b0fe25b251dc261
+    m_Address: bird2_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e53eb92888be82f46b6cd4945399cae6
+    m_Address: Play_btn_Pause
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8965ab38d3d558f4982864e025c19371
+    m_Address: 11757 small bird chirps-full
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10498148e9a28b14b97afef7a3f09742
+    m_Address: shop_tag_screnery_on
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5aeeb24819e47d844b27730c7cba8cf0
+    m_Address: Branch1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5c3a348fd8ea8246b6ac97f9d100556
+    m_Address: BG7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3eaafb4833adb194981f8def50248071
+    m_Address: Home_btn_setting
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c21d2589cdd32b4a9933855f87f5a25
+    m_Address: bird8.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80e0085846d5bd040b40fe938991c537
+    m_Address: 144509366
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a389c9587dd6e49438e5f1f6a2c3fd6e
+    m_Address: dailyreward_ico_back
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c31dc58bb985a945a3d277074e6228c
+    m_Address: RateUs_popup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1669d58120bee843955a83bb2810a38
+    m_Address: MorningBirds_fO15w_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f4e3f58b7b9e874c985d91793fe407b
+    m_Address: SHop_ico_Branch6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f774a6869263e04486450ef920f8ad7
+    m_Address: bird7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d3ada6862a27b94388558426521556d
+    m_Address: BG4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff3ecd68e1c2df84d9c0b50b3fc6b26a
+    m_Address: parrot3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: daffa078420e6b34fbaa95164c5bbdac
+    m_Address: bird1_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e31e0784cbece34ab05ae17361d5597
+    m_Address: bird5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e49453785d58e3642a61c761206767ab
+    m_Address: Win_Icon2 copy 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4680c3780a3044d43996ce2aaaa567d1
+    m_Address: BG2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7449778d3acd2a41b5b0df7c9e5573b
+    m_Address: 1parrot6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8e4c8787052af940859eb6c03b8a878
+    m_Address: bird7_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 999a4b78568f74449b1b84a77a63aa3f
+    m_Address: mixkit-achievement-bell-600
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a96f0884d54ee14bb1f04d4ec67f1bc
+    m_Address: Play_ReplayBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c84a61881f65d1b40a77502366effa05
+    m_Address: Win_NextBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 179ad6981d0af4c498d3c18cf15415ee
+    m_Address: 144509385
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f8226a866c3aa8438baac9ed6b27389
+    m_Address: branch1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c91e0b8de6419340bd8708e2244089b
+    m_Address: 7 copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74f2dfb8ea1a1e841bdde6869a889dc9
+    m_Address: 1Parrot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4152cdc8354de2549a1aa75c9afb2dd7
+    m_Address: homeTitle.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93f260d802326514d8c258d3f846f699
+    m_Address: Spin_item_booster_plus
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc2e67d8f9364924396b8f3ef367e943
+    m_Address: Popup_newbirdtag_rare
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 219839d8b12edcb40adf991b8293a835
+    m_Address: bird1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 681e02e89865f3b488c9059fb5845b41
+    m_Address: 25865 jay bird screech-full
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee548ce89447e6641959b9738dbb2c87
+    m_Address: Icontab_Home
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f358ee82a1b27a48a112e1a543dfd75
+    m_Address: BG8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5f1e0f86d36e774da5da9f720df3d1a
+    m_Address: bird2_Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db01f7f86856e4c4584fc64ad0eab9dc
+    m_Address: Small Success
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffdf29f823185da46a6c4d63c70db13a
+    m_Address: result_panel_idle_ani
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c127bff8b3eebdc42b65f8e22668183a
+    m_Address: bird4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c131a0096abed0544949b9fd5e5d9200
+    m_Address: Collection_numbertag_locked
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f832109fa3340342aeb497f3805552f
+    m_Address: Boogaloo-Regular SDF 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94a1ca19ef33e7346ad28857d0ccf32a
+    m_Address: Collection_numbertag
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65832d19be2712342b1498287c79d43d
+    m_Address: Branch1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52a92729a6f4e104d8e13f872e546e8b
+    m_Address: dailyreward_ico_Swap0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 856b513932d5eed40bd10e74dbb8033a
+    m_Address: Newegg_panel_special
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 737295499973fca43a541c8151053514
+    m_Address: 1parrot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75686c49605f6e447a3faa4118951b04
+    m_Address: Play_btn_skip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43e4ac499d726af45932f36d3aa67390
+    m_Address: Popup_neweggtag_rare
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4b38d49de3df7d44a5004fccf63e134
+    m_Address: bird2_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6969b65954f8c664c98fd7e174380bac
+    m_Address: Boogaloo-Regular SDF 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68e47859925e2a448a5917e62af5647e
+    m_Address: 105348545
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 990dcc591339cf947b7f72b2311cdeff
+    m_Address: Win_NextBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24b84369a6d5ef74db585f653ddbca26
+    m_Address: Lose
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6419569128164b4886fe7d0631af9ce
+    m_Address: bird14_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce1f08696ee9f9441b460186d83f56d3
+    m_Address: Settings_btn_shop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e9e5b699cbb7ee4aa89787a66945959
+    m_Address: 2TocoToucan
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67d98e69cb554b54781f1a076ae57228
+    m_Address: Settings_btn_vibration_on
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30f52179118ba1749a43d6e180cfb27d
+    m_Address: Cartoon Pop Toy Xylophone
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e467c1797645d794eb533b0f1f352b5a
+    m_Address: Reward
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b32a57909b94e846bee467b54fa6176
+    m_Address: Branch2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54190679e1f330345aa36d0aac226172
+    m_Address: 11PalmCockatoo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9144089cd9a041489561a86b901f4a4
+    m_Address: Win_filter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee38f9895a7327242833f6a9022e2a4d
+    m_Address: Play_SkipBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5647b89846b22e448d3e7d2522fd2b1
+    m_Address: ResultPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 230ecd89b7f0a2a4aad681c6992e68d3
+    m_Address: confetti
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a0b3799244ff264384bf6f62ed69439
+    m_Address: 8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d941eb99bae42f2489eb170dcc64915f
+    m_Address: wood1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfd0b6a9c49a49c409c17b0a6ba5391a
+    m_Address: Spin_item_coin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d46369a9d7733b0468c4c7434189c567
+    m_Address: birdyard_1_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ab8cfa90ef445d4096106b1fc6cd5d0
+    m_Address: 11661 flying away big birds-full
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdf9d6b92c4439b439278e865398849c
+    m_Address: text
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 745672d9fbaa7274abda1cc290ae02a5
+    m_Address: bird12_Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49884be9cfc8fcb46b977e5b701db79c
+    m_Address: 1.Cartoon Adventure
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 010af1f9f7974744d990f4f5735e8012
+    m_Address: BirdYard_collectionframe_common
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 337856f9234db554b92b6cc15e0398fb
+    m_Address: 9StellesJay
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5012f9f931c98a145a5fad91f8bd2c09
+    m_Address: Popup_titleribbon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c628ff98db5f9545b47f9caf32e4cdd
+    m_Address: parrot2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af15600a1bfd78243821188f15eb64f6
+    m_Address: Icontab_birdyard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73cf370a381661643a968e7d65388c0b
+    m_Address: bird10_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25b9b70a558ed994b979a9b09bb8a46b
+    m_Address: BirdYard_btn_edit
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c430a1afd9fca6469333f2160ea80f4
+    m_Address: BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3f64a1ab5b7bab408094e8874b8fa7f
+    m_Address: Popup_title
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4457ca1aaf9e7c4418d661627bbbd98e
+    m_Address: Branch5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b1c8c1ad806857439e5a12894d10d07
+    m_Address: Win_homebtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8af5542aa8221ec438afa59331235c19
+    m_Address: Settings_btn_vibration_off
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6da542a9c7d1224da55a482043f3030
+    m_Address: Setting
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4262f92aa9f6ae14a97a2b3c55547574
+    m_Address: BirdSquawk_BW.1888
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 627d5b2af0a5cce4f9ab75d6d3582e4a
+    m_Address: shop_tag_branch_on
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e41cdb2a302b1344a807e07f8deedbc5
+    m_Address: Mystical-Ocean-Puzzle-Game
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e28c2c2af6e54ed45abb6d7e90f33952
+    m_Address: 12GoldenPheasant copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 804e5e2a00a52cb41b8353ed6cde1ff3
+    m_Address: bird12_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26aede2a8b0aa1d4a9f0c0acecbd5c99
+    m_Address: adventure magic game loop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cab1b83afc8619d41b7f08d8fa8a8748
+    m_Address: 9StellesJay
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad3fb24a404e98345b8bd667bfefa8d5
+    m_Address: Settings_btn_sound_off
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1741734a5cbb9ab43b1a7820de49160f
+    m_Address: Specialgift_claim_btn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe20854a0aaaada42858fef3df9e0653
+    m_Address: branch1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f8fd64ab73723c42b829224fb0b522a
+    m_Address: specialgift_swap_ico
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a02bb4a77e82ed4cbe3e52a5cb2f086
+    m_Address: 11825 double bird chirp-full
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0147f4a8f1db76499c293a89bc1ca15
+    m_Address: branch
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2820b75a539cd104895ab3f76e335f90
+    m_Address: dailyreward_ico_giftbox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2ad476a438f9004786bb94e0fcd9092
+    m_Address: BirdYard_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61cb967ad8456ae41b287d37b2168150
+    m_Address: BirdYard_btn_save
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5282428a2a10cea4ca07ac6cfe11a802
+    m_Address: 25865 jay bird screech-full
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29119f8abd8cd8a408d0a6a1645517ba
+    m_Address: BG10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07c7509a43bb7894586dc6feeae56fea
+    m_Address: 09463 single parrot chirp-full
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6f4a09abe20bbc4ab1fc0dfff9731c6
+    m_Address: Settings_btn_restore
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17a559baaf5dc2b46a87e01991572632
+    m_Address: giftbox_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb50b2ca243cb82478151a7d9ee647cb
+    m_Address: Icon2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b08c76caad31dfe4fafdf35e105ee9b4
+    m_Address: Russia
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8d9cbcaae005364e8ad29e59a2641ac
+    m_Address: bird11_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b698cda7656d2247912e15d9cfa6702
+    m_Address: bird13_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2dc5f0ea796edec4cb2cb526ddff6d32
+    m_Address: BG2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1343caeae1cabee49887cfb186e2adaa
+    m_Address: giftbox_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a1f02fa1ec32d84cb346bc12395c1df
+    m_Address: 7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78d86afae2d3b944e951d00fcdf4a2b3
+    m_Address: Spin_roulette2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c19bfefa63010fc429adaef0a0d35cf9
+    m_Address: 9MajorMitchell
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22c2120b7ecf5284085d014f181fa10b
+    m_Address: Rectangle 10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b879250b543b02e48accc00b8bc719b8
+    m_Address: bird5_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e85b350b208fb3b4eb970205e0533ecc
+    m_Address: Play_UndoBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ced0b0b4a349c5428f0ae2773a31c3c
+    m_Address: BirdYard_slectbird_numbertag
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e1bc31b50b07894c84a6f67eae53bc8
+    m_Address: Collection_title_special
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21e8c41ba81937341b0bcabbdcf77a7c
+    m_Address: 8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dcb4c61b26f1f2c4998ee4d2e3cc1f53
+    m_Address: bird_Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7de5191b1234d1444b516f790d6f47f6
+    m_Address: bird12.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6713e02bb61ff164da6aeb90f444365d
+    m_Address: parrot1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f63b32b46072dd419ecab1c6de4b383
+    m_Address: Win_Icon5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50c1662bf5fcf9145be0b85201688d11
+    m_Address: bird7_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c22082be1daf9840bdf18f030d14eb3
+    m_Address: bird11.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b794323b136a22c43ab8674f7f6584ea
+    m_Address: RateUs_btn_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65b4d83bab868b5428335ea949c10a0a
+    m_Address: Settings_title
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbb31f3b1fbfc7e4f874e7b03dc2579c
+    m_Address: Boogaloo-Regular SDF 3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77e4444b0e96ac44a97f520224ca76eb
+    m_Address: Home_nest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c746064bfb7a75d42b9e932e901a9c04
+    m_Address: Play_numbertag
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cefc75b3e062e24aaba73ffb6ca25f7
+    m_Address: 245127643
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b082f75bddde6f04cb08bb7ec77e9b5f
+    m_Address: Win_Icon5 copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad9c976babac6544e822f4269c9091fc
+    m_Address: bird5_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e854c37b4c259e24c9dab0073c4687ec
+    m_Address: plus
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bb0777b89d32934a89c33febccb24d4
+    m_Address: branch7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64860a7bba298e94c99b782dc73e508c
+    m_Address: SHop_title
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4951b7b195306d498eac89b439114a6
+    m_Address: Branch5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6de2bb8b0708837408c86055baa7a9dd
+    m_Address: Popup_egg_special
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d87fb8b46d75ec469926f3e549e1480
+    m_Address: Bird Cartoon Fall
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e35d649bdd1d6c54bbef4a8f7de62705
+    m_Address: Settings_btn_music_off
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19bc16ab19816fd48bfc1184e7eb6fad
+    m_Address: award-logo-sound-effect-12454224
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 564c0dabff0173f4f859831002f7be2f
+    m_Address: bird2.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48fb4fab365278f4e8429dfc12de1476
+    m_Address: dailyreward_ico_egg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 297050bb0510de04cba73863680b3927
+    m_Address: Setting
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5b259bb520f08a4584699523ee0db4b
+    m_Address: wood3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0073ebb09b3fdb488e95e4a9555d798
+    m_Address: birdyard_1.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93ca91cb762a4ed40856e295c293b659
+    m_Address: dailyreward_filter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ebec4cb8e63ce54cbcd02e9db92f830
+    m_Address: bird10_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb9077db865850847943e6ea53a0b518
+    m_Address: Hawaii Ukulele Vacation Intro_by Andy Slatter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 218d58eb515f3cb49be5553f3c0c26f2
+    m_Address: Play_HomeBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abc6eceb054f6fc4eb7d00399d58e868
+    m_Address: specialgift_tag
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1827c0fb8ef00cd4b8b52a35bf477457
+    m_Address: Spin_title
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ac621fb8aad08045a64d1351e71fba2
+    m_Address: bird3.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0cc08bfb5db2cf54ab46c86d5300e9ef
+    m_Address: Epic Teaser_loop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e17010c48743ec48a43d24d60c13aed
+    m_Address: 19772 cartoon tropical bird-full
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 832fca0cab22ad348958d3b14d00624c
+    m_Address: 4NorthernCardinal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 613bb41cf6d9203429b41c1c7ee04b9d
+    m_Address: birdyard_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d85e0a1cba21bcd48a9113d43585cd8b
+    m_Address: tag_new
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9aaf312c80fd5bf4c8fdf5ccc8b33329
+    m_Address: bird15_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d6e2d2ce889b774a81beaadaf2ddc8c
+    m_Address: parrot6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e94f3d2ce60058d4382d418479879235
+    m_Address: 12GoldenPheasant copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2698d2cea60db244a71b77749d2d2ea
+    m_Address: Home_btn_dailyreward
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b1a8f2c44187e14e9d922dea23e18c3
+    m_Address: dailyreward_frame7_claim 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77e2c93caa209f94b846b9c7138d87db
+    m_Address: Branch4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dde7b34c50742344095a4c56edd28d66
+    m_Address: bird10.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e7f8b4c09879e04a97332b1d6bc1b9e
+    m_Address: BG9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b816e4c2f92c684ab032bbf5fb20824
+    m_Address: SHop_ico_Branch7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c41db05c6d2405f43b9d7573c2d46b97
+    m_Address: BG7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3efcb35c40709554a8af243e72b590b7
+    m_Address: 200278169
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 106d406cd8567e94d8722101a889d263
+    m_Address: bird9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b0abd6c48be18948b727bb1c3d745f4
+    m_Address: wood2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17fa1b7c5347bb048b0227efa65e52b9
+    m_Address: 3GreenTuraco
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 653db08c5befd304d88212a2ea0eeef1
+    m_Address: bird9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3cf75c8cae79b274da701f1cbc375ffd
+    m_Address: BirdYard_collectionframe_rare
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5dcbd8c86318d9438965bf61ceab0fe
+    m_Address: Win_filter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e4a1f8c7c054964aaf722223ace68d4
+    m_Address: Rateus_handtut copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2be7d09c4853fe84b9294e8110c9ad53
+    m_Address: RateUs_title
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0116e59c5d407694689e01c59ba34453
+    m_Address: Layer 117
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2cf0f89ca24ebd345b46be8322298074
+    m_Address: shop_tag_screnery_off
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f73f0acf88188c409e4cd440d575185
+    m_Address: Rateus_star_0 copy 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 830f65acf09ed1841b62ddb4dfe2df92
+    m_Address: Popup_neweggtag_common
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 786289ac39c2f314495b790222342679
+    m_Address: bird5_Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60a8f9acdfdf4254e82611812035cff4
+    m_Address: BirdYard_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 694de2bc612a730439d65aee11a3dc85
+    m_Address: giftbox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d86d4bc3d5a7a34386d2cef7c6d5f62
+    m_Address: birdyard_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88277abc99602c04d92a9cc145b70dd5
+    m_Address: BG4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a39eebc5826a7b449e056e03ff1b951
+    m_Address: 10303 bird whistler-full
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a0c01cc33a560d499ccbc09cb7c8c91
+    m_Address: bird8_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17fe18cc1a06c014da967740668391dd
+    m_Address: homeTitle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3959bdcc39320b64aa7a3a0e71eedd06
+    m_Address: branch
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 110332dceb7bd854bb7e83bf4eae4ee4
+    m_Address: Loading_progress
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a9d6adc6f4bd044681c0d75c0705175
+    m_Address: Home_PlayBtn_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7fb71edc6a8b68645ab4a767e22e449a
+    m_Address: 1Parrot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 895764ec3e7c9b5499e85cc2550590ca
+    m_Address: bird6_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7acafecb020c1f4ca44261fbd2efb0e
+    m_Address: Japan
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f43b0fc89d11de478ea8e18fbad9939
+    m_Address: Cracking Egg Shell
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 359752fcf0dc63749b5893dad2a1f1f2
+    m_Address: Pause_btn_removeads
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b70ba7fcff1df264c881fa4bbbffd7ff
+    m_Address: egg_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ba799fcbc071244ead6785710942fe2
+    m_Address: bird1_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd4da9fc173a9704088897dedb2a053d
+    m_Address: dailyreward_ico_coin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f22e70d38fd813489b3425bc6b21d30
+    m_Address: Boogaloo-Regular SDF
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 370cfd0dc8903504e98109c5fb48b8b9
+    m_Address: wood5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6abee11d73ecd91469e97f321d923c7a
+    m_Address: bird2_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de1d971dcdf39ae44b20bd6a02b86b72
+    m_Address: dailyreward_ico_Swap
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7b32c1dde7cb384f9b725c69f83510d
+    m_Address: SHop_ico_Branch10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c66de1d00578e24186fcbfe37201710
+    m_Address: Parrot_Cockatiel_04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b717e2d17608ef4fb16e94b229ef5c4
+    m_Address: bird3_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 497cbf2d89747b546b82c481e3a55ece
+    m_Address: Pause
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c89e003d925634540a8b6b3da99e86d6
+    m_Address: dailyreward_frame_claim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73782b3d924b64047bbd329dc6f6eec6
+    m_Address: Lose_Popup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 909fdc3d2222268488edef3638db7f34
+    m_Address: bird8_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e50ff44de415c754bb2ed006640ca77f
+    m_Address: 11825 double bird chirp-full
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc2a9f4d80bdc5f4dbd9a3ab1a700a20
+    m_Address: RateUs_btn_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c9ca15dd16da2245817dce37a25c760
+    m_Address: confetti
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89fc925da0b99db47b47f7f5ecb45a08
+    m_Address: bird10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 525ca55d7adcf294fb2811960ad52841
+    m_Address: shop_tag_bird_off
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2128e55d9fb12f744ae2e5ed393f6ef2
+    m_Address: 7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a3a326df705b4b49b48f151a9fa1a52
+    m_Address: egg_egg_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1be0826d6b210cf45b6e8b02f896d498
+    m_Address: specialgift_coin_ico
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04e0246da29d78149b91298aa3208c63
+    m_Address: bird2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a10196dfe12f30439d49cd919126cc8
+    m_Address: wood3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0598396dfca34bc43a28b66333f632b1
+    m_Address: bird4_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f635da7d24226544297d5ad8516c38b4
+    m_Address: 175928172
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ca27c7d455f483479b9fa01ba395f50
+    m_Address: Dailyreward_SpecialGift
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9db6e7d96ada384f91ad8c2886ab064
+    m_Address: Settings_btn_X
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9a0ff7de4b448a47aa543024964d956
+    m_Address: dailyreward_ico_branch
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 880dba8d53e1a5d43a87b1c91022d471
+    m_Address: Settings_btn_restore
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b21b29dfc8e6634cbfb2b7f41d95b74
+    m_Address: BG3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07d7589d99b7a514aaf36927332aac1f
+    m_Address: Play_icon_ad
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0bb999d595352442909a618cf2195de
+    m_Address: Play_SwapBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45c11e9db789f4441b26c07916dd1fe6
+    m_Address: Spin_btn_spin_ad
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3bb332ad5a06573438a5d9efc0cca380
+    m_Address: level-complete-aura-01-sound-effect-28775025
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17b92aad17f0269468f1c48d2856555a
+    m_Address: 8 copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95d1cfad9dd17ab41877c25dbfd8deb6
+    m_Address: BirdYard_editing
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99dc92bd00302b145b7dfb0ab7d1715e
+    m_Address: wood5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74ed33bd7ccb46c43a403ae99f4c7be3
+    m_Address: wood4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 576638bdd44c808428d03d8f85c3283e
+    m_Address: Spin_btn_spin_free
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4bfe1abd309bbd14e83c59e7b6d37988
+    m_Address: Happy Morning (mp3cut.net)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 449c52cd5b548594daff686c0752c4be
+    m_Address: BG5 (1)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ced69acdd47590248a26f1bf2e055524
+    m_Address: filter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4eea2dda2c231f47891f379e16b470b
+    m_Address: Happy Morning
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5dc117ed5851b394abe820aa83a5e1f8
+    m_Address: Win_Icon6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d27c1fda669bc946921289cd10faecd
+    m_Address: ico_ad
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfc8aafdc5bb11d408ac6017ff5a2d81
+    m_Address: Settings_btn_music_on
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0044700eb9ef5574c98e5c89a33ec701
+    m_Address: bird_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2b1ae0e4ca1a4c4cb1ed50c1f51f897
+    m_Address: Home_egg_common
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0701401e4dd4cdb40bf57578ffc4a7f9
+    m_Address: 5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be82412e390a00140afd8c5de6bdb7e1
+    m_Address: branch2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be264d2e7881fc94daf44c7745e4e681
+    m_Address: 11PalmCockatoo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6f0ce2e998719a43aea131cefcb0a62
+    m_Address: bird5.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 293bf03e08147eb4298f2b48b1381d54
+    m_Address: bird9_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 539a833ebac6b8444b1ceeefa4d00dc5
+    m_Address: bird_close_single_North_Dakota
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4459b3eb77130a46be8a346b639f368
+    m_Address: bird6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7daaa84ea48d68e4ca476dc0e950acdd
+    m_Address: birdyard_1_Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 364d645e0e137454f802085c6a085f44
+    m_Address: bird4_Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6922845ec38314e4daee6d63e02bd34b
+    m_Address: BG8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8dab75e026d7684e82ad67fd208c09c
+    m_Address: dailyreward_ico_spin0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a11bf95ea9d7843489fba4de5c1524f9
+    m_Address: bird5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31f7fc5eac21d444c8ad1523d2fa13dc
+    m_Address: egg.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09145d5e6f58f0740a85ddd03a9e340c
+    m_Address: Play_btn_music_on
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 410af16ea38366c469581610a74fb94e
+    m_Address: dailyreward_frame7_done
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22c7266e114b80a41ba1dc117bcaf00f
+    m_Address: 4NorthernCardinal copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99e6817e8a7bdc74dac5c4a4c3c654ff
+    m_Address: 12GoldenPheasant
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec741e7e966f4e54f8f8ec0829fd951a
+    m_Address: Play_btn_sound_on
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1605c38ec9c629d439cf2f7fc958d971
+    m_Address: BirdYard_frame_rare
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7640979ea8df2c64b82765d6994914fb
+    m_Address: Home_Logo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3164d9e7fa30f54bbc4a558396d6b7b
+    m_Address: bird12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61365d9e0454d8a489b3bc8a5093a7a3
+    m_Address: Home_tab_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8de240ae99ebc4a418ec280c11c48063
+    m_Address: Win_Icon1 copy 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 368b46ae9d61f5d45a287bbc6451adec
+    m_Address: Branch2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18f32faeacfaae648a873687bbd48580
+    m_Address: Shop_branch
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79f506ceeba55ce4fa0f1813c598fe22
+    m_Address: Spain
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01eb3ccee7e28734893775247414d81a
+    m_Address: dailyreward_frame7_next
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55996cde3509eef4481cea36865afec0
+    m_Address: 11760 peacock squeak
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1aafcde899ea454bbe868fdde2f5f7a
+    m_Address: Popup_greensmall
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f74910ee4eb65fd4382ce8930c351463
+    m_Address: Play_branchBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87aa94ee076ef3d45b2329f7d1b4efc2
+    m_Address: adventure magic game loop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2deae6ee7464c374687de2de991ab68a
+    m_Address: Home_noti
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0338feeb276d4b48b20eaa9fa44efe0
+    m_Address: Boogaloo-Regular SDF
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb4557fe95ee1434389961020689a268
+    m_Address: 19772 cartoon tropical bird-full
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c5d4cfe584eb3749a0eefeaa709910b
+    m_Address: Popup_btn_orangebig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64e60dfe1bdcc6547a6aa049c46a258e
+    m_Address: bird13.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6031661f1d11d2f45affda3b831b162b
+    m_Address: BirdChirp_BW.1867
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9b9b92f3d36fdf45ad97578514d5005
+    m_Address: branch3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c9afe2f6581ff944bd0fcf3610c39f3
+    m_Address: Play
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8b0623f8b3e72f4a8f87b46a4e96faa
+    m_Address: 245127642
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4b81c3f0cb959849a9ea2564495a31e
+    m_Address: branch3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ef0cd3f4c36a7a42a8b154aef2870e7
+    m_Address: 7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e60cd54f32f285b4bab221cb232ecf90
+    m_Address: Phoenix
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2bf4746f0c9260d4eb846de933ee140d
+    m_Address: branch2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 780be96f426be8346ac6a44867b4f299
+    m_Address: Phoenix
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55c63c6f246145049be2a759c482832d
+    m_Address: egg_egg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80a69e6ffea82c14b887d6de7ebac4e6
+    m_Address: dailyreward_frame7_done 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 760d417fc7413d0459554a1786051145
+    m_Address: Play_btn_music_off
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb79977f143a6f1428d0f2706b99ab2b
+    m_Address: BirdYard_btn_edit_exit
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f89c98fa2ba1104cb90bf065d00c1fe
+    m_Address: branch1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15f7449fa33f005458fb519fc8f5585d
+    m_Address: Home_Logo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a528449f4209a3b4eb0855f5b82135b1
+    m_Address: China
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51a760af6271b6547b031fa4ff9f086b
+    m_Address: Play_HomeBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a0653afe6da4024982b23f69ed9c791
+    m_Address: dailyreward_ico_giftbox0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 193469af70346864d825403823b2a121
+    m_Address: Win_Popup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 555d2dafa71944542af7312c2b842e3d
+    m_Address: bird5_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c26743bfdaf2806439c108b20e9abbbb
+    m_Address: win game level 295
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ede83bf803a6e24d9fb7d1ab92f17f7
+    m_Address: homeTitle_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a64cabf6001149e8a9312fd6b5b36c0
+    m_Address: BG.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad2335cfec8dfe8459d0256a289962e6
+    m_Address: 11PalmCockatoo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7494d5cfc5f1978479860fc27ce79911
+    m_Address: Play
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03c2eccf96db99e45abae7571c3d48ad
+    m_Address: egg_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f6252df45598c7459abc9df7e758819
+    m_Address: Collection_BG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a45b74df6f305774dabc47be8a67806a
+    m_Address: BG3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0fa5cadfbea05094daffd1d54b75b0c7
+    m_Address: Italy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07824ddf1f9cf654592f3c34a21066ff
+    m_Address: branch3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87d3cddff2d1cc14eb164c63ea89883e
+    m_Address: bird9.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e7dc1ef1cfd229428bed7aae364e3ee
+    m_Address: BirdYard_btn_collection
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c910eeffa625b647ae91389b9d0511b
+    m_Address: BirdFlamingo JBA01_49_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 155013ff51ace3d46866f7ff45589577
+    m_Address: BG6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 383317ffae5675e4abcd2182a4fb6a5d
+    m_Address: bird1.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87911cff16b2c1942a7455a63bbe50de
+    m_Address: Win_Icon4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84defb75e342a1f42b058f2180309358
+    m_Address: fly
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11e9a6e283cab0a4abb2628215fa7e9b
+    m_Address: grounding
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ac3b13f8e010b64683384147ce4e1bc
+    m_Address: idle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 527fc6b6882891947854cdd20fd09b83
+    m_Address: touching
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 441e647cf8c1a2d4789a29315dbbeddc
+    m_Address: Spine GameObject (bird1)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 200497e8a117b834282e04ece6202e11
+    m_Address: wood1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ff535c40d3a04348b7d8406dad5509e
+    m_Address: woodRight
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64cd310962923f341b51324bae76f99f
+    m_Address: DataBirds
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0833c9ecdb8e4e459a72e42c8c4a0af
+    m_Address: Spine GameObject (bird1) 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d402ae232a39aec4e9c0ae91be417cce, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3feeb2a8c3261644ba682ed697669b0e, type: 2}
+    - {fileID: 11400000, guid: 6dd250d7eafdb2e40a5483454a9dc35f, type: 2}
