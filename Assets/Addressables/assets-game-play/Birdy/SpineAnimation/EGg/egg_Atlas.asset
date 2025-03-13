@@ -12,8 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
   m_Name: egg_Atlas
   m_EditorClassIdentifier: 
-  textureLoadingMode: 0
-  onDemandTextureLoader: {fileID: 0}
   atlasFile: {fileID: 4900000, guid: 31f7fc5eac21d444c8ad1523d2fa13dc, type: 3}
   materials:
   - {fileID: 2100000, guid: 55c63c6f246145049be2a759c482832d, type: 2}

@@ -80,8 +80,67 @@ namespace Game.MainGame
                         State = StateController.DontChoose;
                         return;
                     }
+                    else
+                    {
+                        Debug.Log("bbb");
+                        List<Transform> listTran = new List<Transform>();
+                        listTran = wood.GetSlots(_birdsChoose[0].ID, _birdsChoose.Count);
+
+                        if (listTran.Count ==0) // neu nhu khong con slot
+                        {
+                            Debug.Log("aaaa");
+                            ClearBirdChoose();
+                            CheckGetBirds(wood);
+                            return;
+                        }
+                        else
+                        {
+                            MovingBird(listTran, wood);
+                        }
+                    }
                 }
             }
+        }
+
+        private void MovingBird(List<Transform> listTran, Wood wood)
+        {
+            
+            for(int i = 0; i < _birdsChoose.Count ; i++)
+            {
+                if(i < listTran.Count)
+                {
+                    if(i < listTran.Count -1) _birdsChoose[i].MovingToBranch(listTran[i], _woodChoose, wood, false);
+                    else _birdsChoose[i].MovingToBranch(listTran[i], _woodChoose, wood, true);
+
+                    wood.AddBird(_birdsChoose[i]);
+                    _woodChoose.RemoveBird();
+                }
+                else
+                {
+                    _birdsChoose[i].ChangStateAnim(StateAnim.idle);
+                }
+            }
+            State = StateController.DontChoose;
+        }
+
+        private void CheckGetBirds(Wood wood)
+        {
+            _birdsChoose = wood.GetBirds();
+
+            if (_birdsChoose.Count == 0)
+            {
+                State = StateController.DontChoose;
+                return;
+            }
+            _woodChoose = wood;
+            State = StateController.Choose;
+
+            for (int i = 0; i < _birdsChoose.Count; i++)
+            {
+                _birdsChoose[i].ChangStateAnim(StateAnim.touching);
+            }
+
+            return;
         }
 
         private void ClearBirdChoose()

@@ -15,18 +15,23 @@ namespace Game.MainGame
         [SerializeField] private Wood _objWoodRight;
         [SerializeField] private float _spacingWood = 1.4f;
 
+        public Transform tranStartLeft;
+        public Transform tranStartRight;
+        public Vector3 posStartLeft;
+        public Vector3 posStartRight;
+
         public GameController controller;
 
         private void Awake()
         {
-            if(Instance != null)
-            {
                 Instance = this;
-            }
+
         }
 
         private void Start()
         {
+            posStartLeft = tranStartLeft.position;
+            posStartRight = tranStartRight.position;
             GenerateData();
         }
 
@@ -45,6 +50,7 @@ namespace Game.MainGame
                 Wood wood =   LeanPool.Spawn(_objWoodLeft);
                 wood.transform.position = position;
                 wood.Type = TypeWord.left;
+                wood.CanChoose = true;
                 SetUpBranch(_data.branches[i].idBirds, wood);
             }
 
@@ -56,6 +62,7 @@ namespace Game.MainGame
                 Wood wood =   LeanPool.Spawn(_objWoodRight);
                 wood.transform.position = position;
                 wood.Type = TypeWord.right;
+                wood.CanChoose = true;
                 SetUpBranch(_data.branches[i + countwoodLeft].idBirds, wood);
             }
 
@@ -68,22 +75,36 @@ namespace Game.MainGame
             for(int i=0; i< idBirds.Count; i++)
             {
                 GameObject bird = LeanPool.Spawn(_dataBirds.birds[idBirds[i]]);
-                bird.transform.SetParent(wood.transform);
-                bird.transform.position = tranBird[i].position;
+                bird.transform.SetParent(wood.tranCha);
 
                 Bird birdI = bird.GetComponent<Bird>();
+                birdI.ID = idBirds[i];
+
                 wood.SetBird(birdI, i);
-                wood.CanChoose = true;
 
                 if (wood.Type == TypeWord.right)
                 {
                     bird.transform.eulerAngles = new Vector3(0, 0, 0);
+
+                    Vector2 tranStart = GetRandomPointAround(tranStartRight.position, 2f);
+                    birdI.transform.position = tranStart;
+                    birdI.MovingToBranchStart(tranBird[i], wood);
                 }
                 else
                 {
-                    transform.eulerAngles = new Vector3(0, 180, 0);
+                    bird.transform.eulerAngles = new Vector3(0, 180, 0);
+
+                    Vector2 tranStart = GetRandomPointAround(tranStartLeft.position, 2f);
+                    birdI.transform.position = tranStart;
+                    birdI.MovingToBranchStart(tranBird[i], wood);
                 }
             }
+        }
+
+        public Vector2 GetRandomPointAround(Vector2 center, float radius)
+        {
+            Vector2 randomOffset = UnityEngine.Random.insideUnitCircle * radius;
+            return center + randomOffset;
         }
     }
 

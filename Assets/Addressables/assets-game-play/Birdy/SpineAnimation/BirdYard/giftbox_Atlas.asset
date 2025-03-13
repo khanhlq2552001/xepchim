@@ -12,8 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
   m_Name: giftbox_Atlas
   m_EditorClassIdentifier: 
-  textureLoadingMode: 0
-  onDemandTextureLoader: {fileID: 0}
   atlasFile: {fileID: 4900000, guid: 901c11f0aad21d0408150fc274a8e311, type: 3}
   materials:
   - {fileID: 2100000, guid: 81b2b012f28240941bf3a4c9e82028f9, type: 2}

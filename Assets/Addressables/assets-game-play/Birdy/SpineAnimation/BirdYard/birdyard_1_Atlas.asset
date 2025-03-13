@@ -12,8 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
   m_Name: birdyard_1_Atlas
   m_EditorClassIdentifier: 
-  textureLoadingMode: 0
-  onDemandTextureLoader: {fileID: 0}
   atlasFile: {fileID: 4900000, guid: c0073ebb09b3fdb488e95e4a9555d798, type: 3}
   materials:
   - {fileID: 2100000, guid: 7daaa84ea48d68e4ca476dc0e950acdd, type: 2}

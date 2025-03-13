@@ -3362,6 +3362,31 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00044bf9e2e0d6847900cd15a42aa74a
+    m_Address: Spine GameObject (bird1) 1 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b20ab1c763ef77e47853929ca63a19ba
+    m_Address: word1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f354598fb4279054a87108d4770e9e58
+    m_Address: wood1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e281f4b5f267d049bd63db4c49c1cb5
+    m_Address: wood2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f797ac8f217e30841aef7a769609182e
+    m_Address: woodRight
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: d402ae232a39aec4e9c0ae91be417cce, type: 2}
   m_SchemaSet:

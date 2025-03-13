@@ -123,6 +123,37 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &127765288
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 127765289}
+  m_Layer: 0
+  m_Name: TranStartRight
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &127765289
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 127765288}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6.7, y: 3.03, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 643279196}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &643279195
 GameObject:
   m_ObjectHideFlags: 0
@@ -153,6 +184,8 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1830384145}
+  - {fileID: 727351977}
+  - {fileID: 127765289}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &702323328
@@ -249,6 +282,37 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1697248137}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1 &727351976
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 727351977}
+  m_Layer: 0
+  m_Name: TranStartLeft
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &727351977
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 727351976}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -7, y: 3.52, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 643279196}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &742722774
 GameObject:
   m_ObjectHideFlags: 0
@@ -680,17 +744,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     branches:
-    - idBirds: 00000000000000000000000000000000
-    - idBirds: 00000000000000000000000000000000
-    - idBirds: 00000000000000000000000000000000
-    - idBirds: 00000000000000000000000000000000
+    - idBirds: 00000000000000000100000001000000
+    - idBirds: 01000000000000000100000000000000
+    - idBirds: 02000000000000000000000002000000
+    - idBirds: 00000000000000000200000002000000
     - idBirds: 
     - idBirds: 
   _dataBirds: {fileID: 11400000, guid: 64cd310962923f341b51324bae76f99f, type: 2}
   _objWoodLeft: {fileID: 2095812914091162146, guid: 200497e8a117b834282e04ece6202e11, type: 3}
   _objWoodRight: {fileID: 5533994063815407947, guid: 9ff535c40d3a04348b7d8406dad5509e, type: 3}
   _spacingWood: 1.4
-  controller: {fileID: 0}
+  tranStartLeft: {fileID: 727351977}
+  tranStartRight: {fileID: 127765289}
+  controller: {fileID: 1973958566}
 --- !u!1 &1498581268
 GameObject:
   m_ObjectHideFlags: 0
